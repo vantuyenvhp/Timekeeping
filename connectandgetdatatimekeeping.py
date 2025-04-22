@@ -122,10 +122,3 @@ if __name__ == "__main__":
     ip = input("Nhập địa chỉ IP của máy chấm công: ")
     port = 4370  # Port mặc định cho thiết bị ZKTeco
     thong_tin_may_cham_cong(ip, port)
-
-# VPHCM 	115.79.195.199
-# VPHCM	    115.79.199.64
-# Long An	113.161.187.2
-# Long An	115.75.184.19
-# TTDVKT	115.73.220.144
-# TTDVKT	14.161.29.177
